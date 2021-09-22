@@ -19,6 +19,10 @@ body {
 nav {
     background-color: var(--primary);
     text-align: center;
+     border-top-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+    border-top-right-radius: 1rem;
+    border-bottom-left-radius: 1rem;
 }
 
 main {
@@ -44,6 +48,10 @@ button {
     padding: 1rem 2rem;
     font-family: 'Kalam', cursive;
     font-size: large;
+    border-top-left-radius: 3rem;
+    border-top-right-radius: 3rem;
+    border-bottom-right-radius: 3rem;
+    border-bottom-left-radius: 3rem
 }
 
 
@@ -63,93 +71,14 @@ footer {
     padding: 1rem;
     background-color: var(--primary);
     text-align: center;
+    border-top-left-radius: 1.5rem;
+    border-bottom-right-radius: 1.5rem;
+    border-top-right-radius: 1.5rem;
+    border-bottom-left-radius: 1.5rem;
+    
 }
 
 footer p {
     max-width: var(--width-break);
     margin: auto;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+}
